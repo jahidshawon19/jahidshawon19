@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidshawon19" alt="jahidshawon19" /></a> </p>
 
+- 🌱 I’m currently learning **MERN and DRF**
+
+- 👨‍💻 All of my projects are available at [jahidshawon.netlify.app](jahidshawon.netlify.app)
+
+- 📫 How to reach me **jahidshawon1730@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZbOBHC0l-4inT6-gK7JRGPuTJffX8fo7/view](https://drive.google.com/file/d/1ZbOBHC0l-4inT6-gK7JRGPuTJffX8fo7/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jahid-hasan-shawon-42820417a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid-hasan-shawon-42820417a" height="30" width="40" /></a>
