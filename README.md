@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidshawon19" alt="jahidshawon19" /></a> </p>
 
-- 🌱 I’m currently learning **MERN and DRF**
+- 🌱 I’m currently learning **Software Project Management**
 
 - 👨‍💻 All of my projects are available at [jahidshawon.netlify.app](jahidshawon.netlify.app)
 
